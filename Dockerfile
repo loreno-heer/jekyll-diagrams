@@ -47,8 +47,10 @@ RUN gem install --no-document --user-install bundler && \
                 mermaid.cli \
                 nomnoml \
                 state-machine-cat \
+                vega \
                 vega-cli \
                 vega-lite \
+                vega-embed \
                 wavedrom-cli && \
         pip3 install --quiet --user \
                 actdiag \
