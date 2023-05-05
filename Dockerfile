@@ -48,7 +48,6 @@ RUN gem install --no-document --user-install bundler && \
                 nomnoml \
                 state-machine-cat \
                 vega \
-                vega-cli \
                 vega-lite \
                 vega-embed \
                 wavedrom-cli && \
